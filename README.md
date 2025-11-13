@@ -101,17 +101,17 @@ All ground truth data included in the benchmarks are gathered from publicly avai
 
 **Data Commons sources**
 
-  * Health variables: CDC PLACES 2022
-  * Unemployment: bls.gov
-  * Poverty: census.gov
+  * Health variables: [CDC PLACES 2022](https://data.cdc.gov/500-Cities-Places/PLACES-ZCTA-Data-GIS-Friendly-Format-2022-release/c76y-7pzg/about_data)
+  * Unemployment: [bls.gov](http://bls.gov)
+  * Poverty: [census.gov](https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html)
 
 **Google Earth Engine sources**
 
-  * ZCTA and County boundaries: TIGER/2010/ZCTA5, TIGER/2016/Counties
-  * Tree cover: ESA/WorldCover/v100
-  * Night lights: NOAA/VIIRS/DNB/ANNUAL\_V22
-  * Elevation: USGS/SRTMGL1\_003
-  * 2020 ZCTA to County relationship file
+  * ZCTA and County boundaries: [TIGER/2010/ZCTA5](https://developers.google.com/earth-engine/datasets/catalog/TIGER_2010_ZCTA5#terms-of-use), [TIGER/2016/Counties](https://developers.google.com/earth-engine/datasets/catalog/TIGER_2016_Counties)
+  * Tree cover: [ESA/WorldCover/v100](https://developers.google.com/earth-engine/datasets/catalog/ESA_WorldCover_v100)
+  * Night lights: [NOAA/VIIRS/DNB/ANNUAL\_V22](https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_ANNUAL_V22)
+  * Elevation: [USGS/SRTMGL1_003](https://developers.google.com/earth-engine/datasets/catalog/USGS_SRTMGL1_003)
+**[2020 ZCTA to County relationship file](https://www2.census.gov/geo/docs/maps-data/data/rel2020/zcta520/tab20_zcta520_county20_natl.txt)
 
 -----
 
